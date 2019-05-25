@@ -1,0 +1,6 @@
+name: CobbleTreasure
+version: 1.1
+main: xyz.excelsius.cobbletreasure.CobbleTreasure
+api-version: 1.13
+authors: [Excelsius]
+description: Allows a chance for items to be found when breaking cobblestone. For use on Skyblock servers.
